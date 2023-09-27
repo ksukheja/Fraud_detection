@@ -1,2 +1,2 @@
-# Fraud_detection
-Fraud_detection_Analysis
+🔭 I’m currently working on Fraud detection analysis
+Languages and Tools:
